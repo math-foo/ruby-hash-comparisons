@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    digest-murmurhash (1.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  digest-murmurhash
+
+BUNDLED WITH
+   1.12.5
